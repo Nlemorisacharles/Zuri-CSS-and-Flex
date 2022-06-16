@@ -10,7 +10,7 @@ nav{
     align-items: center;
     justify-content: space-between;
     padding: 20px 70px;
-    background-color: hsl(0, 0%, 95%);
+    background-color: hsl(0, 0%, 3%);
 }
 .nav-flex{
     color: hsl(0, 0%, 95%);
@@ -29,7 +29,7 @@ nav{
     font: 700 24px 'Big Shoulders Display', cursive;
 }
 .nav-item{
-    color: #000;
+    color: #ffff;
     text-decoration: none;
 }
 .color-flex{
